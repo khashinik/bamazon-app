@@ -10,7 +10,7 @@ var connection = mysql.createConnection({
 	port: 3306,
     user: 'root',
     insecureAuth: true,
-	password: '331505arBR()',
+	password: '',
 	database: 'bamazon'
 });
 
